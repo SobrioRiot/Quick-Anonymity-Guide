@@ -1,3 +1,5 @@
+[English](https://github.com/SobrioRiot/Quick-Anonymity-Guide/blob/main/README.md) | [Español](https://github.com/SobrioRiot/Quick-Anonymity-Guide/blob/main/README-ESP.md) | [Farsi](https://github.com/SobrioRiot/Quick-Anonymity-Guide/blob/main/README-Farsi.md)
+
 # Quick guide to anonymity on social media
                                              
 First of all, we will start this tutorial by talking about online security:
