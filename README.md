@@ -32,13 +32,14 @@ Depending on the country and political conditions, many of these services may be
 <img src="https://user-images.githubusercontent.com/110576526/213604264-6b47d6f5-cadb-49a5-aa02-02e8b46dcda5.png" width=25% height=25%>
 
 
-   The next thing to do is to choose your username. This can be something you can write down on a piece of paper and then try to memorize. 
+   The next thing to do is to choose your username. 
+   This can be something you can write down on a piece of paper and then try to memorize. 
    It is not recommended that you save your passwords with Google’s automatic options. 
 
 <img src="https://user-images.githubusercontent.com/110576526/213604336-9f4f21da-8eb0-4880-bcbf-fb28fafffaa8.png" width=25% height=25%>
 
-   Once you have your account ready and you are on the next screen, click on the button in the bottom right corner, 
-   the vpn will connect automatically.
+   Once you have your account ready and you are on the next screen, 
+   click on the button in the bottom right corner, the vpn will connect automatically.
 
 <img src="https://user-images.githubusercontent.com/110576526/213604381-1bdf9498-9944-46ed-8b37-bc9280ffef49.png" width=25% height=25%>
 
@@ -73,7 +74,8 @@ Depending on the country and political conditions, many of these services may be
 # Great, now we have some protection.
 
    Next we will check applications - Telegram, Twitter, Facebook, etc. 
-   Keep in mind that all information available on the internet is stored for years, so it is more convenient to surf anonymously.
+   Keep in mind that all information available on the internet is stored for years, 
+   so it is more convenient to surf anonymously.
 
 The first thing to do is to create a proton mail account. Visit the website 
 > https://account.proton.me/signup
@@ -82,12 +84,14 @@ The first thing to do is to create a proton mail account. Visit the website
 
 <img src="https://user-images.githubusercontent.com/110576526/213605837-8a4dd72b-b254-48d5-b2f0-2247ca7c5479.png" width=25% height=25%>
 
-   1-  Download the app or got to the website and click on sign in 
+   1-  Download the app or got to the website and click on sign in
+
    2 - Select your preferred email address, your password, and complete the process.
 
 <img src="https://user-images.githubusercontent.com/110576526/213605884-c9c1c600-eddc-441d-b8a3-efc79ae9631a.png" width=25% height=25%>
 
    3 - Go through the tutorial and keep your account open for verification.
+
    4 - Keep protonmail opened 
 
 ------------------------------------------------------------------------------------------------------------
