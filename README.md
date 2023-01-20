@@ -29,7 +29,7 @@ Depending on the country and political conditions, many of these services may be
 
    Now, the fist thing we need is to go to out app store and look for "Protonvpn" on the search box
 
-<center><img src="https://user-images.githubusercontent.com/110576526/213618709-e166694f-9d8a-4992-9d35-ee95c5aa19fb.png" width=25% height=25%></center>
+<center><img src="https://user-images.githubusercontent.com/110576526/213618948-4473bf5b-8d0e-416d-bbbc-125348cc2022.png" width=25% height=25%></center>
 
 
    The next thing to do is to choose your username. 
@@ -82,7 +82,7 @@ The first thing to do is to create a proton mail account. Visit the website
 
    If you are using your phone, go to your app store and donwload "protonmail"
 
-<center><img src="https://user-images.githubusercontent.com/110576526/213605837-8a4dd72b-b254-48d5-b2f0-2247ca7c5479.png" width=25% height=25%></center>
+<center><img src="https://user-images.githubusercontent.com/110576526/213618709-e166694f-9d8a-4992-9d35-ee95c5aa19fb.png" width=25% height=25%></center>
 
    1-  Download the app or got to the website and click on sign in
 
