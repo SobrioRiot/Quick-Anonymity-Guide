@@ -1,4 +1,4 @@
-[English](https://github.com/SobrioRiot/Quick-Anonymity-Guide/blob/main/README.md) | [Español](https://github.com/SobrioRiot/Quick-Anonymity-Guide/blob/main/README-ESP.md) | [Farsi] (https://github.com/SobrioRiot/Quick-Anonymity-Guide/blob/main/README-Farsi.md)
+[English](https://github.com/SobrioRiot/Quick-Anonymity-Guide/blob/main/README.md) | [Español](https://github.com/SobrioRiot/Quick-Anonymity-Guide/blob/main/README-ESP.md) | [Farsi](https://github.com/SobrioRiot/Quick-Anonymity-Guide/blob/main/README-Farsi.md)
 
 # راهنمای سریع برای ناشناس ماندن در رسانه های اجتماعی
 اول از همه  در این آموزش میخوایم راجب امنیت در فضای اینترنت صحبت کنیم
