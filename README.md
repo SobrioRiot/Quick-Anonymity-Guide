@@ -18,6 +18,8 @@ If you prefer other options,  you can visit the website www.jagoanssh.com to use
 
 Depending on the country and political conditions, many of these services may be limited.
 
+------------------------------------------------------------------------------------------------------------
+
 # Vpn 
 
    Let's start by configuring protonvpn. Depending on your device, visit the app store and search for the following "Proton vpn". 
@@ -35,7 +37,8 @@ Depending on the country and political conditions, many of these services may be
 
 <img src="https://user-images.githubusercontent.com/110576526/213604336-9f4f21da-8eb0-4880-bcbf-fb28fafffaa8.png" width=25% height=25%>
 
-   Once you have your account ready and you are on the next screen, click on the button in the bottom right corner, the vpn will connect                      automatically.
+   Once you have your account ready and you are on the next screen, click on the button in the bottom right corner, 
+   the vpn will connect automatically.
 
 <img src="https://user-images.githubusercontent.com/110576526/213604381-1bdf9498-9944-46ed-8b37-bc9280ffef49.png" width=25% height=25%>
 
@@ -45,6 +48,7 @@ Depending on the country and political conditions, many of these services may be
 
 <img src="https://user-images.githubusercontent.com/110576526/213605123-af448a61-d74e-4d15-919e-7848dfdefd95.png" width=25% height=25%>
 
+------------------------------------------------------------------------------------------------------------
 
 # Let's add extra security: 
 
@@ -86,7 +90,7 @@ The first thing to do is to create a proton mail account. Visit the website
    3 - Go through the tutorial and keep your account open for verification.
    4 - Keep protonmail opened 
 
-
+------------------------------------------------------------------------------------------------------------
 
 # We are almost done!
 
@@ -101,10 +105,10 @@ The first thing to do is to create a proton mail account. Visit the website
 
 <img src="https://user-images.githubusercontent.com/110576526/213606118-8cf96ac2-776b-4866-a632-f78fb6a7172a.png" width=25% height=25%>
 
-   At the end of your registration they will send you an email to verify your account, enter the verification numbers to access the app.
-   Here comes the good part, time to verify your apps with anonymous numbers. 
-   Once logged in, on the right hand side tab, you will see a button that allows you to top up. At this point you can choose to pay 
-   with cryptocurrencies or google pay. 
+   At the end of your registration they will send you an email to verify your account, enter the verification 
+   numbers to access the app. Here comes the good part, time to verify your apps with anonymous numbers. 
+   Once logged in, on the right hand side tab, you will see a button that allows you to top up. 
+   At this point you can choose to pay  with cryptocurrencies or google pay. 
 
 <img src="https://user-images.githubusercontent.com/110576526/213606218-9948b696-6ab2-496f-ba16-7fd8ce48dd00.png" width=25% height=25%>
 
@@ -113,20 +117,27 @@ The first thing to do is to create a proton mail account. Visit the website
 
 * If you pay with google pay, you can use your bank card or a google pay card.*
 * Remember that there are many online sites where you can buy google gift cards.*
-* If you prefer to make purchases with cryptocurrencies, I suggest you make a wallet with the platforms that appear in the payment window.*
+* If you prefer to make purchases with cryptocurrencies, 
+ 
+I suggest you make a wallet with the platforms that appear in the payment window.
+
+------------------------------------------------------------------------------------------------------------
 
 # Finally, let's choose the service to verify:
 
-   I recommend USA or UK for telegram and Twitter. You can use numbers from Canada and other parts of the world, just be patient, there are not always        numbers available.
+   I recommend USA or UK for telegram and Twitter. You can use numbers from Canada and other parts of the world, 
+   just be patient, there are not always numbers available.
 
 # Verification 
 
    1 - Select the country 
+
    2- Select the application to verify - Telegram, Twitter, WhatsApp, etc.
 
 <img src="https://user-images.githubusercontent.com/110576526/213606298-75ac9973-866b-448d-afd0-99cdc240376f.png" width=25% height=25%>
 
    3- Click on Next and now copy the number and phone number in the verification box of the app you want to use.
+
    4- Wait a few seconds for the code to arrive. If that doesn’t work, try another number until you get the code.
 
 <img src="https://user-images.githubusercontent.com/110576526/213606344-fdd7ad98-2fef-4f37-af02-f4a1f2cac844.png" width=25% height=25%>
@@ -142,7 +153,8 @@ The first thing to do is to create a proton mail account. Visit the website
     We do not forgive
     Expect us
 
-Congratulations, now you will have an account that is not linked to your number and you will also be able to surf with peace of mind knowing that your mobile will always be connected to the VPN.
+Congratulations, now you will have an account that is not linked to your number and you will also be 
+able to surf with peace of mind knowing that your mobile will always be connected to the VPN.
 
 ----------------------------------------------------------------------------------------------------
 
