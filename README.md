@@ -29,7 +29,7 @@ Depending on the country and political conditions, many of these services may be
 
    Now, the fist thing we need is to go to out app store and look for "Protonvpn" on the search box
 
-<center><img src="https://user-images.githubusercontent.com/110576526/213604264-6b47d6f5-cadb-49a5-aa02-02e8b46dcda5.png" width=25% height=25%></center>
+<center><img src="https://user-images.githubusercontent.com/110576526/213618709-e166694f-9d8a-4992-9d35-ee95c5aa19fb.png" width=25% height=25%></center>
 
 
    The next thing to do is to choose your username. 
@@ -101,7 +101,7 @@ The first thing to do is to create a proton mail account. Visit the website
    The next thing to do is to go to your app shop and search for the "pingme" app.
    It looks just like the following image 
 
-<center><img src="" width=25% height=25%></center>
+<center><img src="https://user-images.githubusercontent.com/110576526/213618646-51cb6327-3bc8-429a-abef-d0e6fbbe6bc6.png" width=25% height=25%></center>
 
    Once downloaded, you can register using an email address, enter the one you just made at protonmail.com. 
 
