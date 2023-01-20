@@ -27,7 +27,7 @@ Depending on the country and political conditions, many of these services may be
 
         Now, the fist thing we need is to go to out app store and look for "Protonvpn" on the search box
 
-<img src="[https://i.imgur.com/ZWnhY9T.png](https://user-images.githubusercontent.com/110576526/213604264-6b47d6f5-cadb-49a5-aa02-02e8b46dcda5.png)" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/110576526/213604264-6b47d6f5-cadb-49a5-aa02-02e8b46dcda5.png" width=50% height=50%>
 
 ![image](https://user-images.githubusercontent.com/110576526/213604264-6b47d6f5-cadb-49a5-aa02-02e8b46dcda5.png)
 
