@@ -29,44 +29,42 @@ Depending on the country and political conditions, many of these services may be
 
 <img src="https://user-images.githubusercontent.com/110576526/213604264-6b47d6f5-cadb-49a5-aa02-02e8b46dcda5.png" width=50% height=50%>
 
-![image](https://user-images.githubusercontent.com/110576526/213604264-6b47d6f5-cadb-49a5-aa02-02e8b46dcda5.png)
-
 
         the next thing to do is to choose your username. This can be something you can write down on a piece of paper and then try to memorize. 
         It is not recommended that you save your passwords with Google’s automatic options. 
 
-![image](https://user-images.githubusercontent.com/110576526/213604336-9f4f21da-8eb0-4880-bcbf-fb28fafffaa8.png)
+<img src="https://user-images.githubusercontent.com/110576526/213604336-9f4f21da-8eb0-4880-bcbf-fb28fafffaa8.png" width=50% height=50%>
 
         Once you have your account ready and you are on the next screen, click on the button in the bottom right corner, the vpn will connect                       automatically.
 
-![image](https://user-images.githubusercontent.com/110576526/213604381-1bdf9498-9944-46ed-8b37-bc9280ffef49.png)
+<img src="https://user-images.githubusercontent.com/110576526/213604381-1bdf9498-9944-46ed-8b37-bc9280ffef49.png" width=50% height=50%>
 
 
         I suggest you try the app and choose USA as your country, almost all the apps work there. 
         You will see the screen change colour, confirming that you have connected to the vpn.
 
-![image](https://user-images.githubusercontent.com/110576526/213605123-af448a61-d74e-4d15-919e-7848dfdefd95.png)
+<img src="https://user-images.githubusercontent.com/110576526/213605123-af448a61-d74e-4d15-919e-7848dfdefd95.png" width=50% height=50%>
 
 
 # Let's add extra security: 
 
         Look for the settings on your phone (it usually has a gear icon). 
 
-![image](https://user-images.githubusercontent.com/110576526/213604564-94ffde84-95af-4395-ac1f-432e14706efa.png)
+<img src="https://user-images.githubusercontent.com/110576526/213604564-94ffde84-95af-4395-ac1f-432e14706efa.png" width=50% height=50%>
 
         As you can see, we are in the settings menu, in the search box type "vpn".
 
-![image](https://user-images.githubusercontent.com/110576526/213604608-4f1782e7-f618-4a7b-b55a-319924698a80.png)
+<img src="https://user-images.githubusercontent.com/110576526/213604608-4f1782e7-f618-4a7b-b55a-319924698a80.png" width=50% height=50%>
 
         Then click on the gear icon next to the legend that says "proton vpn".
 
-![image](https://user-images.githubusercontent.com/110576526/213605158-a613d2ef-688d-4b50-81a0-ebdd1551414f.png)
+<img src="https://user-images.githubusercontent.com/110576526/213605158-a613d2ef-688d-4b50-81a0-ebdd1551414f.png" width=50% height=50%>
 
-![image](https://user-images.githubusercontent.com/110576526/213605199-85f92dcc-e4e7-4cf5-b1ec-8a3c1082c807.png)
+<img src="https://user-images.githubusercontent.com/110576526/213605199-85f92dcc-e4e7-4cf5-b1ec-8a3c1082c807.png" width=50% height=50%>
 
         Enable the options "Always-on Vpn" and "Block connections without Vpn".
 
-![image](https://user-images.githubusercontent.com/110576526/213605250-96ab23b1-45a4-4e19-b9e1-f71e74aaf246.png)
+<img src="https://user-images.githubusercontent.com/110576526/213605250-96ab23b1-45a4-4e19-b9e1-f71e74aaf246.png" width=50% height=50%>
 
 # Great, now we have some protection.
 
@@ -78,12 +76,12 @@ The first thing to do is to create a proton mail account. Visit the website
 
        If you are using your phone, go to your app store and donwload "protonmail"
 
-![image](https://user-images.githubusercontent.com/110576526/213605837-8a4dd72b-b254-48d5-b2f0-2247ca7c5479.png)
+<img src="https://user-images.githubusercontent.com/110576526/213605837-8a4dd72b-b254-48d5-b2f0-2247ca7c5479.png" width=50% height=50%>
 
        1-  Download the app or got to the website and click on sign in 
        2 - Select your preferred email address, your password, and complete the process.
 
-![image](https://user-images.githubusercontent.com/110576526/213605884-c9c1c600-eddc-441d-b8a3-efc79ae9631a.png)
+<img src="https://user-images.githubusercontent.com/110576526/213605884-c9c1c600-eddc-441d-b8a3-efc79ae9631a.png" width=50% height=50%>
 
        3 - Go through the tutorial and keep your account open for verification.
        4 - Keep protonmail opened 
@@ -95,13 +93,13 @@ The first thing to do is to create a proton mail account. Visit the website
        The next thing to do is to go to your app shop and search for the "pingme" app.
        It looks just like the following image 
 
-![image](https://user-images.githubusercontent.com/110576526/213606017-670b4350-aa68-4221-833a-06addd41fd6f.png)
+<img src="https://user-images.githubusercontent.com/110576526/213606017-670b4350-aa68-4221-833a-06addd41fd6f.png" width=50% height=50%>
 
        Once downloaded, you can register using an email address, enter the one you just made at protonmail.com. 
 
-![image](https://user-images.githubusercontent.com/110576526/213606083-cc909b94-d682-4a47-8a76-99d1dc0a1af9.png)
+<img src="https://user-images.githubusercontent.com/110576526/213606083-cc909b94-d682-4a47-8a76-99d1dc0a1af9.png" width=50% height=50%>
 
-![image](https://user-images.githubusercontent.com/110576526/213606118-8cf96ac2-776b-4866-a632-f78fb6a7172a.png)
+<img src="https://user-images.githubusercontent.com/110576526/213606118-8cf96ac2-776b-4866-a632-f78fb6a7172a.png" width=50% height=50%>
 
        At the end of your registration they will send you an email to verify your account, enter the verification numbers to access the app.
        Here comes the good part, time to verify your apps with anonymous numbers. 
@@ -109,9 +107,9 @@ The first thing to do is to create a proton mail account. Visit the website
        Once logged in, on the right hand side tab, you will see a button that allows you to top up. At this point you can choose to pay 
        with cryptocurrencies or google pay. 
 
-![image](https://user-images.githubusercontent.com/110576526/213606218-9948b696-6ab2-496f-ba16-7fd8ce48dd00.png)
+<img src="https://user-images.githubusercontent.com/110576526/213606218-9948b696-6ab2-496f-ba16-7fd8ce48dd00.png" width=50% height=50%>
 
-![image](https://user-images.githubusercontent.com/110576526/213606249-215520eb-ea6c-45ca-9406-2a3fdc1372aa.png)
+<img src="https://user-images.githubusercontent.com/110576526/213606249-215520eb-ea6c-45ca-9406-2a3fdc1372aa.png" width=50% height=50%>
 
 
 * If you pay with google pay, you can use your bank card or a google pay card.*
@@ -127,12 +125,12 @@ The first thing to do is to create a proton mail account. Visit the website
        1 - Select the country 
        2- Select the application to verify - Telegram, Twitter, WhatsApp, etc.
 
-![image](https://user-images.githubusercontent.com/110576526/213606298-75ac9973-866b-448d-afd0-99cdc240376f.png)
+<img src="https://user-images.githubusercontent.com/110576526/213606298-75ac9973-866b-448d-afd0-99cdc240376f.png" width=50% height=50%>
 
        3- Click on Next and now copy the number and phone number in the verification box of the app you want to use.
        4- Wait a few seconds for the code to arrive. If that doesn’t work, try another number until you get the code.
 
-![image](https://user-images.githubusercontent.com/110576526/213606344-fdd7ad98-2fef-4f37-af02-f4a1f2cac844.png)
+<img src="https://user-images.githubusercontent.com/110576526/213606344-fdd7ad98-2fef-4f37-af02-f4a1f2cac844.png" width=50% height=50%>
 
        5- Enter the verification code in the verification box.
 
