@@ -132,7 +132,18 @@ The first thing to do is to create a proton mail account. Visit the website
 <img src="https://user-images.githubusercontent.com/110576526/213606344-fdd7ad98-2fef-4f37-af02-f4a1f2cac844.png" width=25% height=25%>
 
    5- Enter the verification code in the verification box.
+   
+-----------------------------------------------------------------------------------------------------
+
+    Never use your phone number, name or photograph.
+
+    We are anonymous
+    We do not forget
+    We do not forgive
+    Expect us
 
 Congratulations, now you will have an account that is not linked to your number and you will also be able to surf with peace of mind knowing that your mobile will always be connected to the VPN.
 
-> Remember, you can always write to me for any questions -Twitter @Sobri0R1ot
+----------------------------------------------------------------------------------------------------
+
+> Remember, you can always write to me for any questions -Twitter @Sobr1oRi0t
