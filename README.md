@@ -101,7 +101,7 @@ The first thing to do is to create a proton mail account. Visit the website
    The next thing to do is to go to your app shop and search for the "pingme" app.
    It looks just like the following image 
 
-<center><img src="https://user-images.githubusercontent.com/110576526/213606017-670b4350-aa68-4221-833a-06addd41fd6f.png" width=25% height=25%></center>
+<center><img src="" width=25% height=25%></center>
 
    Once downloaded, you can register using an email address, enter the one you just made at protonmail.com. 
 
