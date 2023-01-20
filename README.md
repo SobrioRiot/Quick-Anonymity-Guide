@@ -108,7 +108,7 @@ The first thing to do is to create a proton mail account. Visit the website
 
 <img src="https://user-images.githubusercontent.com/110576526/213606218-9948b696-6ab2-496f-ba16-7fd8ce48dd00.png" width=25% height=25%>
 
-<img src="https://user-images.githubusercontent.com/110576526/213606249-215520eb-ea6c-45ca-9406-2a3fdc1372aa.png" width=25% height=25%>
+<img src="https://user-images.githubusercontent.com/110576526/213609839-2458457f-6ec1-42b2-bdfa-aafe0f40d9d7.png" width=25% height=25%>
 
 
 * If you pay with google pay, you can use your bank card or a google pay card.*
@@ -129,10 +129,10 @@ The first thing to do is to create a proton mail account. Visit the website
    3- Click on Next and now copy the number and phone number in the verification box of the app you want to use.
    4- Wait a few seconds for the code to arrive. If that doesn’t work, try another number until you get the code.
 
-<img src="https://user-images.githubusercontent.com/110576526/213606344-fdd7ad98-2fef-4f37-af02-f4a1f2cac844.png" width=85% height=85%>
+<img src="https://user-images.githubusercontent.com/110576526/213606344-fdd7ad98-2fef-4f37-af02-f4a1f2cac844.png" width=25% height=25%>
 
    5- Enter the verification code in the verification box.
 
 Congratulations, now you will have an account that is not linked to your number and you will also be able to surf with peace of mind knowing that your mobile will always be connected to the VPN.
 
-# Remember, you can always write to me for any questions -Twitter @Sobri0R1ot
+> Remember, you can always write to me for any questions -Twitter @Sobri0R1ot
